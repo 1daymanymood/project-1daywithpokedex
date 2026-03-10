@@ -1,5 +1,5 @@
 import React from 'react'
-import pokeball from '../assets/Pokeball-PNG-image.png'
+import pokeball from '../assets/Pokeball-PNG-Image.png'
 import { Link } from 'react-router'
 
 const HeaderLogo = () => {
